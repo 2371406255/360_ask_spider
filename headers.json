@@ -1,0 +1,17 @@
+{
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+    "Host": "wenda.so.com",
+    "Pragma": "no-cache",
+    "Cookie": "opqopq=a9b957826dc30c4f9411bee9c2f8d099.1587178757; WDTKID=5d2a2556d13aa80e; __guid=9114931.1284424391770873300.1587178758451.7036; count=1; monitor_count=1; __sid=9114931.2694576870820012500.1587178758516.8518; __gid=9114931.203750067.1587178758519.1587178758519.1; __huid=111garyz6VzB7oF%252Ffu5YZN%252F1rmND0CpaF8qTweLWCO8LI%253D; crypt_code=EnYS58WDBBl4zeu1G8S34TjJXf3d70QATUzVD%252FMlbJ78%252BXQhp2x0U3UJi6y086hz; HSPK=fe281514db8b692d1f27fecb8a6df9d.1587178860.1",
+    "Referer": "https://wenda.so.com/other/jackpot?url=ac3eb19f4a4a77ca91db1f62053a710db53e3ac99bcfda8b1c913c8a50e878e0550c341101a5c0793bf756fb62087c8886de1ee52b87a3afecd741f8f872250761f21dda2e91b009a5dcdb1c3b1ebfc60f4bc83a2cafd153009123d6feab06699a3459a2455f3e52cbe5d58fba20d865&t=86afa35ed246d281d48ca18c7b5f0da1&from=req_check",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"
+}
